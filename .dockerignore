@@ -1,2 +1,4 @@
+*.github
 **.git
 renovate.json
+Dockerfile
