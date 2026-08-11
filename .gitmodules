@@ -137,7 +137,7 @@
 [submodule "extensions/SimpleBatchUpload"]
     path = extensions/SimpleBatchUpload
     url = https://github.com/ProfessionalWiki/SimpleBatchUpload.git
-    branch = 2.0.1
+	branch = 3.0.3
 [submodule "extensions/PluggableAuth"]
     path = extensions/PluggableAuth
     url = https://github.com/wikimedia/mediawiki-extensions-PluggableAuth
