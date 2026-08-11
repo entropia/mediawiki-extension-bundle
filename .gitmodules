@@ -1,114 +1,114 @@
 [submodule "extensions/CategoryTree"]
 	path = extensions/CategoryTree
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CategoryTree
+	url = https://github.com/wikimedia/mediawiki-extensions-CategoryTree
 	branch = REL1_43
 [submodule "extensions/Cite"]
 	path = extensions/Cite
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Cite
+	url = https://github.com/wikimedia/mediawiki-extensions-Cite
 	branch = REL1_43
 [submodule "extensions/CiteThisPage"]
 	path = extensions/CiteThisPage
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CiteThisPage
+	url = https://github.com/wikimedia/mediawiki-extensions-CiteThisPage
 	branch = REL1_43
 [submodule "extensions/CodeEditor"]
 	path = extensions/CodeEditor
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CodeEditor
+	url = https://github.com/wikimedia/mediawiki-extensions-CodeEditor
 	branch = REL1_43
 [submodule "extensions/ConfirmEdit"]
 	path = extensions/ConfirmEdit
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ConfirmEdit
+	url = https://github.com/wikimedia/mediawiki-extensions-ConfirmEdit
 	branch = REL1_43
 [submodule "extensions/Gadgets"]
 	path = extensions/Gadgets
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Gadgets
+	url = https://github.com/wikimedia/mediawiki-extensions-Gadgets
 	branch = REL1_43
 [submodule "extensions/ImageMap"]
 	path = extensions/ImageMap
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ImageMap
+	url = https://github.com/wikimedia/mediawiki-extensions-ImageMap
 	branch = REL1_43
 [submodule "extensions/InputBox"]
 	path = extensions/InputBox
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/InputBox
+	url = https://github.com/wikimedia/mediawiki-extensions-InputBox
 	branch = REL1_43
 [submodule "extensions/Interwiki"]
 	path = extensions/Interwiki
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Interwiki
+	url = https://github.com/wikimedia/mediawiki-extensions-Interwiki
 	branch = REL1_43
 [submodule "extensions/Math"]
 	path = extensions/Math
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Math
+	url = https://github.com/wikimedia/mediawiki-extensions-Math
 	branch = REL1_43
 [submodule "extensions/MultimediaViewer"]
 	path = extensions/MultimediaViewer
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MultimediaViewer
+	url = https://github.com/wikimedia/mediawiki-extensions-MultimediaViewer
 	branch = REL1_43
 [submodule "extensions/Nuke"]
 	path = extensions/Nuke
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Nuke
+	url = https://github.com/wikimedia/mediawiki-extensions-Nuke
 	branch = REL1_43
 [submodule "extensions/OATHAuth"]
 	path = extensions/OATHAuth
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OATHAuth
+	url = https://github.com/wikimedia/mediawiki-extensions-OATHAuth
 	branch = REL1_43
 [submodule "extensions/PageImages"]
 	path = extensions/PageImages
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageImages
+	url = https://github.com/wikimedia/mediawiki-extensions-PageImages
 	branch = REL1_43
 [submodule "extensions/ParserFunctions"]
 	path = extensions/ParserFunctions
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ParserFunctions
+	url = https://github.com/wikimedia/mediawiki-extensions-ParserFunctions
 	branch = REL1_43
 [submodule "extensions/PdfHandler"]
 	path = extensions/PdfHandler
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PdfHandler
+	url = https://github.com/wikimedia/mediawiki-extensions-PdfHandler
 	branch = REL1_43
 [submodule "extensions/Poem"]
 	path = extensions/Poem
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Poem
+	url = https://github.com/wikimedia/mediawiki-extensions-Poem
 	branch = REL1_43
 [submodule "extensions/Renameuser"]
 	path = extensions/Renameuser
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Renameuser
+	url = https://github.com/wikimedia/mediawiki-extensions-Renameuser
 	branch = REL1_43
 [submodule "extensions/ReplaceText"]
 	path = extensions/ReplaceText
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ReplaceText
+	url = https://github.com/wikimedia/mediawiki-extensions-ReplaceText
 	branch = REL1_43
 [submodule "extensions/Scribunto"]
 	path = extensions/Scribunto
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Scribunto
+	url = https://github.com/wikimedia/mediawiki-extensions-Scribunto
 	branch = REL1_43
 [submodule "extensions/SecureLinkFixer"]
 	path = extensions/SecureLinkFixer
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SecureLinkFixer
+	url = https://github.com/wikimedia/mediawiki-extensions-SecureLinkFixer
 	branch = REL1_43
 [submodule "extensions/SpamBlacklist"]
 	path = extensions/SpamBlacklist
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SpamBlacklist
+	url = https://github.com/wikimedia/mediawiki-extensions-SpamBlacklist
 	branch = REL1_43
 [submodule "extensions/SyntaxHighlight_GeSHi"]
 	path = extensions/SyntaxHighlight_GeSHi
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SyntaxHighlight_GeSHi
+	url = https://github.com/wikimedia/mediawiki-extensions-SyntaxHighlight_GeSHi
 	branch = REL1_43
 [submodule "extensions/TemplateData"]
 	path = extensions/TemplateData
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TemplateData
+	url = https://github.com/wikimedia/mediawiki-extensions-TemplateData
 	branch = REL1_43
 [submodule "extensions/TextExtracts"]
 	path = extensions/TextExtracts
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TextExtracts
+	url = https://github.com/wikimedia/mediawiki-extensions-TextExtracts
 	branch = REL1_43
 [submodule "extensions/TitleBlacklist"]
 	path = extensions/TitleBlacklist
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TitleBlacklist
+	url = https://github.com/wikimedia/mediawiki-extensions-TitleBlacklist
 	branch = REL1_43
 [submodule "extensions/VisualEditor"]
 	path = extensions/VisualEditor
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VisualEditor
+	url = https://github.com/wikimedia/mediawiki-extensions-VisualEditor
 	branch = REL1_43
 [submodule "extensions/WikiEditor"]
 	path = extensions/WikiEditor
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiEditor
+	url = https://github.com/wikimedia/mediawiki-extensions-WikiEditor
 	branch = REL1_43
 [submodule "skins/MinervaNeue"]
 	path = skins/MinervaNeue
@@ -132,7 +132,7 @@
 	branch = REL1_43
 [submodule "extensions/UserMerge"]
 	path = extensions/UserMerge
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UserMerge
+	url = https://github.com/wikimedia/mediawiki-extensions-UserMerge
 	branch = REL1_43
 [submodule "extensions/SimpleBatchUpload"]
 	path = extensions/SimpleBatchUpload
@@ -140,19 +140,19 @@
         branch = 2.0.1
 [submodule "extensions/PluggableAuth"]
 	path = extensions/PluggableAuth
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PluggableAuth
+	url = https://github.com/wikimedia/mediawiki-extensions-PluggableAuth
         branch = REL1_43
 [submodule "extensions/OpenIDConnect"]
 	path = extensions/OpenIDConnect
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OpenIDConnect
+	url = https://github.com/wikimedia/mediawiki-extensions-OpenIDConnect
         branch = REL1_43
 [submodule "extensions/Lockdown"]
 	path = extensions/Lockdown
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Lockdown
+	url = https://github.com/wikimedia/mediawiki-extensions-Lockdown
         branch = REL1_43
 [submodule "extensions/CSS"]
 	path = extensions/CSS
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CSS
+	url = https://github.com/wikimedia/mediawiki-extensions-CSS
         branch = REL1_43
 [submodule "extensions/EmbedVideo"]
 	path = extensions/EmbedVideo
@@ -160,15 +160,15 @@
        branch = v2.9.0
 [submodule "extensions/AbuseFilter"]
 	path = extensions/AbuseFilter
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AbuseFilter
+	url = https://github.com/wikimedia/mediawiki-extensions-AbuseFilter
         branch = REL1_43
 [submodule "extensions/CodeMirror"]
 	path = extensions/CodeMirror
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CodeMirror
+	url = https://github.com/wikimedia/mediawiki-extensions-CodeMirror
 	branch = REL1_43
 [submodule "extensions/TemplateStyles"]
 	path = extensions/TemplateStyles
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TemplateStyles
+	url = https://github.com/wikimedia/mediawiki-extensions-TemplateStyles
 	branch = REL1_43
 [submodule "extensions/TemplateStylesExtender"]
 	path = extensions/TemplateStylesExtender
@@ -179,20 +179,20 @@
 	branch = v2.40.2
 [submodule "extensions/RevisionSlider"]
 	path = extensions/RevisionSlider
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RevisionSlider
+	url = https://github.com/wikimedia/mediawiki-extensions-RevisionSlider
 	branch = REL1_43
 [submodule "extensions/Widgets"]
 	path = extensions/Widgets
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Widgets
+	url = https://github.com/wikimedia/mediawiki-extensions-Widgets
 	branch = REL1_43
 [submodule "extensions/3DAlloy"]
 	path = extensions/3DAlloy
 	url = https://github.com/dolfinus/3DAlloy
 [submodule "extensions/Cargo"]
 	path = extensions/Cargo
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Cargo
+	url = https://github.com/wikimedia/mediawiki-extensions-Cargo
 	branch = REL1_43
 [submodule "extensions/SandboxLink"]
 	path = extensions/SandboxLink
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SandboxLink
+	url = https://github.com/wikimedia/mediawiki-extensions-SandboxLink
 	branch = REL1_43
