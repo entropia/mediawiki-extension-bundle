@@ -188,6 +188,7 @@
 [submodule "extensions/3DAlloy"]
     path = extensions/3DAlloy
     url = https://github.com/dolfinus/3DAlloy
+    branch = master
 [submodule "extensions/Cargo"]
     path = extensions/Cargo
     url = https://github.com/wikimedia/mediawiki-extensions-Cargo
