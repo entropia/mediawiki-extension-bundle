@@ -176,7 +176,7 @@
 [submodule "skins/Citizen"]
     path = skins/Citizen
     url = https://github.com/StarCitizenTools/mediawiki-skins-Citizen.git
-	branch = v3.20.0
+	branch = v3.22.0
 [submodule "extensions/RevisionSlider"]
     path = extensions/RevisionSlider
     url = https://github.com/wikimedia/mediawiki-extensions-RevisionSlider
