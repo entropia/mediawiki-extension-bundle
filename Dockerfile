@@ -4,4 +4,4 @@ COPY . /
 
 WORKDIR /
 
-RUN for d in extensions/*/ skins/*/; do [ -f "$d/composer.json" ] && (cd "$d" && pwd && composer update --no-dev); done || true
+RUN for d in extensions/*/ skins/*/; do [ -f "$d/composer.json" ] && (cd "$d" && pwd && composer install --no-dev); done || true
