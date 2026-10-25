@@ -4,4 +4,4 @@ COPY . /
 
 WORKDIR /
 
-RUN find extensions skins -name composer.json -type f -exec sh -c 'cd "$(dirname "$1")" && pwd && composer update --no-dev ' _ {} \;
+RUN for d in extensions/*/ skins/*/; do [ -f "$d/composer.json" ] && (cd "$d" && pwd && composer update --no-dev); done
