@@ -5,5 +5,9 @@
   ],
   "git-submodules": {
     "enabled": true
-  }
+  },
+  "baseBranchPatterns": [
+      "main",
+      "/^REL1_.*/"
+  ]
 }
