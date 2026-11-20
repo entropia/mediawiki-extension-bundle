@@ -1,4 +1,4 @@
-FROM composer:2.11.2@sha256:511d2a96fce74de098b54224d59146fb8b6a7735d4e301f16c87c062e511900d
+FROM composer:2.11.2@sha256:919efe8e62179c71dfd31fad035fd671fe7454211c6b2aa30a10af0ab4acedba
 
 COPY . /
 
